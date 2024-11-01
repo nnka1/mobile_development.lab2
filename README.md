@@ -6,6 +6,9 @@
 
 ## Работа приложения
 
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://github.com/nnka1/mobile_development.lab2/blob/main/video_2024-11-01_20-28-51.mp4))
+
+
 ### 1.  MainActivity
 * Содержит меню из четырех кнопок, занимающих 20% высоты экрана с 2% расстоянием между ними.
 
