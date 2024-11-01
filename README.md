@@ -6,6 +6,7 @@
 
 ## Работа приложения
 
+(кликабельно)
 [![Everything Is AWESOME](https://img.youtube.com/vi/cS2wVLdthNc/hqdefault.jpg)](https://www.youtube.com/shorts/cS2wVLdthNc?feature=share)
 
 ### 1.  MainActivity
