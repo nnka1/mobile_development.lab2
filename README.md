@@ -11,7 +11,7 @@
 
 * Кнопки выровнены по центру экрана, занимают 75% его ширины и находятся на равном расстоянии от краев.
 
-   
+![alt text](https://github.com/nnka1/mobile_development.lab2/blob/main/photo_2024-11-01_19-10-37.jpg)
 
 
 ### 2.  Activity2
@@ -19,12 +19,14 @@
 
 * Верстка выполнена с помощью LinearLayout.
 
+![alt text](https://github.com/nnka1/mobile_development.lab2/blob/main/photo_2024-11-01_19-10-37%20(2).jpg)
 
 ### 3.  Activity3
 * Доступен после нажатия на вторую кнопку на главном экране.
 
 * Верстка выполнена с помощью RelativeLayout.
 
+![alt text](https://github.com/nnka1/mobile_development.lab2/blob/main/photo_2024-11-01_19-10-37%20(3).jpg)
 
 ### 4.  Activity4
 * Доступен после нажатия на третью кнопку на главном экране.
@@ -37,6 +39,8 @@
 
 * При нажатии на кнопку ее цвет меняется на светло-зеленый.
 
+![alt text](https://github.com/nnka1/mobile_development.lab2/blob/main/photo_2024-11-01_19-10-37%20(4).jpg)
+![alt text](https://github.com/nnka1/mobile_development.lab2/blob/main/photo_2024-11-01_19-10-37%20(5).jpg)
   
 ## Как собрать проект?
 1. Загрузка или клонирование репозитория:
